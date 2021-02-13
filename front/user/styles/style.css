@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.register1{
+    margin-left: auto;
+}
+h1{
+    text-align: center;
+    padding: 30px;
+}
+.register{
+    width: 500px;
+    background: #0e8ce4;
+   margin: auto;
+    color: white;
+    /*text-align: center;*/
+    /*padding: 10px;*/
+    border-radius: 5px;
+    /*font-size: 20px;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#register{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+label{
+    font-style: italic;
+    font-family: sans-serif;
+    /*margin-top: 5px;*/
+    font-weight: bold;
+}
+#first-name{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+#last-name{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+#user-name{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+#email{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+#password{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+#re-password{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+#number{
+    border-radius: 8px;
+    padding: 7px;
+    width: 250px;
+    border: none;
+}
+button{
+    width: 100px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 0;
+    font-style: italic;
+    font-weight: 600;
+    /*text-align: center;*/
+    margin-left: 90px;
+}
+p{
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+}
